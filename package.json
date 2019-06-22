@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-facebook4-tecnosolve",
-  "version": "3.1.0",
+  "name": "@tecnosolve/cordova-plugin-facebook4",
+  "version": "4.0.0",
   "description": "Cordova Facebook SDK 4 Plugin",
   "cordova": {
-    "id": "cordova-plugin-facebook4-tecnosolve",
+    "id": "cordova-plugin-facebook4",
     "platforms": [
       "android",
       "ios",
@@ -12,9 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/feliperfmarques/cordova-plugin-facebook4"
+    "url": "https://github.com/Tecnosolve/cordova-plugin-facebook4"
   },
   "keywords": [
+    "tecnosolve",
     "cordova",
     "facebook",
     "ecosystem:cordova",
